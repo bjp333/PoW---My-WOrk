@@ -1,0 +1,19 @@
+{
+  "name": "pow---my-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "sha256": "^0.2.0",
+    "util": "^0.12.4",
+    "yargs": "^17.3.1"
+  }
+}
